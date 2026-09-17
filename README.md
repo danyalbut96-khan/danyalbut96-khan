@@ -1,22 +1,243 @@
-# 💫 About Me:
-### 👋 About Me<br><br>- 🚀 I'm the CEO & Co-Founder of **CloudExify Technologies (Private) Limited** — a software house based in Islamabad, Pakistan, building web, mobile, and AI-powered solutions for businesses that want real results, not just promises.<br><br>- 🏢 Alongside my co-founders, I've grown CloudExify from an idea into a full-fledged company — running an internship program that's received hundreds of applications, hiring developers, and building a team that ships real products.<br><br>- 🔭 I'm currently working on multiple fronts at once:<br>  - Scaling **CloudExify** across web development, mobile apps & AI solutions<br>  - Building **Raaz**, an anonymous confession/social platform for Pakistan's Urdu-speaking market (Flutter + Supabase)<br>  - Designing a multi-agent AI lead-generation system that automates outreach for local businesses (email + WhatsApp)<br>  - Migrating our internship management from spreadsheets to a full Supabase-powered dashboard<br>  - Exploring **Unity 3D mobile game development** as a personal side venture<br><br>- 🌱 I'm currently learning and sharpening my edge in AI/ML integration, scalable backend architecture, multi-agent systems, and full-stack system design — because in this game, staying still means falling behind.<br><br>- 👯 I'm looking to collaborate with people who don't just talk — developers, designers, and founders who want to build AI-powered apps, SaaS products, and games that actually ship and actually matter.<br><br>- 🤔 I'm looking for help with Unity 3D game development — if you know your way around game mechanics, 3D environments, or mobile game optimization, let's build something great together.<br><br>- 💬 Ask me about startups, scaling a software company from zero, AI automation, lead-gen systems, or how to turn a college side-project into a real business.<br><br>- ⚙️ My workflow: AI-assisted development end-to-end. I architect the vision, direct the execution, and let tools like Cursor and Windsurf handle the heavy lifting — speed and precision over everything.<br><br>- 🎓 I'm doing all of this while still a software engineering student at **COMSATS University Islamabad** — because running a company and studying at the same time isn't a conflict, it's just multitasking at a higher level.<br><br>- ⚡ Fun fact: I run a company, manage a family welfare fund initiative, and I'm still in university — some people call it chaos, I call it Tuesday.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:0d0d0d,100:111827&height=120&section=header&reversal=false" width="100%"/>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.M.Khan.9612) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.m__j_id._khan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-majid-khan-mb588) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyalbut96@gmail.com) 
+<div align="center">
+  <img src="https://github.com/danyalbut96-khan.png?size=200" width="110" align="right"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=danyalbut96-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=danyalbut96-khan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=danyalbut96-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <h1 align="left">
+    Hey, I'm Majid&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  </h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <p align="left">
+    <b>CEO & Co-Founder @ CloudExify Technologies</b><br/>
+    Islamabad, Pakistan 🇵🇰 &nbsp;·&nbsp; CS Student @ COMSATS University<br/>
+    <i>I build companies and ship real products — not just ideas.</i>
+  </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danyalbut96-khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <br/>
+
+  <p align="left">
+    <a href="https://cloudexify.site"><img src="https://img.shields.io/badge/-cloudexify.site-000?style=flat&logo=googlechrome&logoColor=fff"/></a>&nbsp;
+    <a href="https://linkedin.com/in/muhammad-majid-khan-mb588"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff"/></a>&nbsp;
+    <a href="mailto:danyalbut96@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=fff"/></a>&nbsp;
+    <a href="https://instagram.com/m.m__j_id._khan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=fff"/></a>&nbsp;
+    <a href="https://facebook.com/M.M.Khan.9612"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=fff"/></a>
+  </p>
+</div>
+
+<br clear="both"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=danyalbut96-khan&icon=0&color=13)](https://visitcount.itsvg.in)
+
+```
+ The way I work
+ ──────────────────────────────────────────────────────────
+  I architect the vision.     I direct the execution.
+  AI tools handle the rest.   Speed + precision = everything.
+
+  Cursor  ·  Windsurf  ·  AI-augmented, end to end.
+ ──────────────────────────────────────────────────────────
+```
+
+<br/>
+
+## &nbsp; 🔭 &nbsp; Right now I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ &nbsp; CloudExify Technologies**
+&nbsp;&nbsp;&nbsp; Web dev · Mobile apps · AI solutions
+&nbsp;&nbsp;&nbsp; For businesses that want real results.
+
+**🕵️ &nbsp; RAAZ**
+&nbsp;&nbsp;&nbsp; Anonymous social platform — Pakistan's
+&nbsp;&nbsp;&nbsp; Urdu-speaking market &nbsp; `Flutter + Supabase`
+
+**🤖 &nbsp; Multi-Agent AI Lead-Gen**
+&nbsp;&nbsp;&nbsp; Automated outreach via Email + WhatsApp
+&nbsp;&nbsp;&nbsp; for local businesses
+
+</td>
+<td width="50%" valign="top">
+
+**📊 &nbsp; Internship Management Dashboard**
+&nbsp;&nbsp;&nbsp; Migrating spreadsheets → Supabase-powered
+&nbsp;&nbsp;&nbsp; full panel system
+
+**🎮 &nbsp; Unity 3D Mobile Game**
+&nbsp;&nbsp;&nbsp; Personal side venture — exploring
+&nbsp;&nbsp;&nbsp; game mechanics + mobile optimization
+
+> 🤝 If you know **Unity 3D** — game mechanics,
+> 3D environments, mobile perf — let's talk.
+
+</td>
+</tr>
+</table>
+
+---
+
+## &nbsp; 🧠 &nbsp; What I'm learning
+
+&nbsp;&nbsp; `AI/ML Integration` &nbsp; · &nbsp; `Scalable Backend Architecture` &nbsp; · &nbsp; `Multi-Agent Systems` &nbsp; · &nbsp; `Full-Stack System Design`
+
+> *Staying still means falling behind.*
+
+---
+
+## &nbsp; ⚡ &nbsp; Tech I work with
+
+<div align="center">
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,python,typescript,supabase&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,flask,laravel,express,php,java,kotlin&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite,prisma,docker,nginx&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github,figma,vite,cpp,wordpress&theme=dark&perline=8" />
+
+<br/>
+</div>
+
+---
+
+## &nbsp; 📊 &nbsp; GitHub at a Glance
+
+<div align="center"><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/danyalbut96-khan&query=public_repos&label=Public%20Repos&style=for-the-badge&color=0d1117&labelColor=1f6feb&logo=github&logoColor=white"/>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/danyalbut96-khan&query=followers&label=Followers&style=for-the-badge&color=0d1117&labelColor=238636&logo=github&logoColor=white"/>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/On%20GitHub%20Since-Nov%202025-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8957e5"/>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Company-CloudExify-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=da3633"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=danyalbut96-khan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github&custom_title=Majid's%20GitHub%20Stats" width="49%"/>&nbsp;<img src="https://streak-stats.demolab.com/?user=danyalbut96-khan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&starting_year=2025" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyalbut96-khan&theme=github_dark&hide_border=true&layout=donut&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&custom_title=Languages%20I%20Ship%20In" width="36%"/>&nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=danyalbut96-khan&theme=github-dark&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="60%"/>
+
+</div>
+
+---
+
+## &nbsp; 📈 &nbsp; Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danyalbut96-khan&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=0d2045&custom_title=Contribution%20Graph%20—%20danyalbut96-khan" width="100%"/>
+
+</div>
+
+---
+
+## &nbsp; 🏅 &nbsp; GitHub Achievements
+
+<div align="center"><br/>
+
+<img src="https://github-profile-achievements.vercel.app/get-achievements.svg?username=danyalbut96-khan&theme=gitdimmed" width="100%"/>
+
+<br/>
+
+> Achievements are earned automatically as you push commits, open PRs, get stars, and contribute to open source.
+
+<br/></div>
+
+---
+
+## &nbsp; 📌 &nbsp; What I've Shipped
+
+<div align="center">
+
+<a href="https://github.com/danyalbut96-khan/mtm-anti">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danyalbut96-khan&repo=mtm-anti&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" />
+</a>&nbsp;
+<a href="https://github.com/danyalbut96-khan/mtm-vs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danyalbut96-khan&repo=mtm-vs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" />
+</a>
+
+<a href="https://github.com/danyalbut96-khan/soban">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danyalbut96-khan&repo=soban&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" />
+</a>&nbsp;
+<a href="https://github.com/danyalbut96-khan/masjid">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danyalbut96-khan&repo=masjid&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" />
+</a>
+
+</div>
+
+---
+
+## &nbsp; 💬 &nbsp; Ask me about
+
+> Startups &nbsp;·&nbsp; Scaling a software company from zero &nbsp;·&nbsp; AI automation &nbsp;·&nbsp; Lead-gen systems &nbsp;·&nbsp; Turning a college side-project into a real business
+
+---
+
+```
+ Fun fact
+ ─────────────────────────────────────────────────────────────
+  I run a company  +  manage a family welfare fund initiative
+  +  I'm still a full-time CS student.
+
+  Some people call it chaos.  I call it Tuesday.
+ ─────────────────────────────────────────────────────────────
+```
+
+---
+
+<div align="center">
+
+<a href="https://github.com/danyalbut96-khan">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://cloudexify.site">
+  <img src="https://img.shields.io/badge/CloudExify.site-000?style=for-the-badge&logo=googlechrome&logoColor=fff"/>
+</a>&nbsp;
+<a href="https://internship.cloudexify.site">
+  <img src="https://img.shields.io/badge/Join%20Our%20Internship-238636?style=for-the-badge&logo=readthedocs&logoColor=fff"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=danyalbut96-khan&style=flat-square&color=1f6feb&label=profile+views)&nbsp;
+![](https://img.shields.io/badge/Made%20in-Pakistan%20🇵🇰-0d1117?style=flat-square)
+
+<br/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:111827,50:0d0d0d,100:000000&height=100&section=footer&reversal=true" width="100%"/>
+</div>
