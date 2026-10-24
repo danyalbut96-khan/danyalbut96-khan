@@ -4,7 +4,7 @@
 
 <a href="https://cloudexify.site"><img src="https://img.shields.io/badge/CLOUDEXIFY-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Cloudexify website" /></a>
 <a href="https://linkedin.com/in/muhammad-majid-khan-mb588"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hello@cloudexify.site"><img src="https://img.shields.io/badge/CONTACT-0891B2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email contact" /></a>
+<a href="mailto:majid@cloudexify.site"><img src="https://img.shields.io/badge/CONTACT-0891B2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email contact" /></a>
 
 </div>
 
@@ -104,9 +104,11 @@ I believe the best way to learn software engineering is to build real things: un
 
 ## GitHub Activity
 
+These cards fetch GitHub data dynamically. Updates depend on GitHub availability and each card service's cache, so they may not refresh instantly. Public cards may not include private-repository activity.
+
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=danyalbut96-khan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub account statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=danyalbut96-khan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub account statistics" />
 <img height="175" src="https://streak-stats.demolab.com?user=danyalbut96-khan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
@@ -129,7 +131,7 @@ If you're interested in software engineering, product building, AI, or collabora
 
 <a href="https://cloudexify.site"><img src="https://img.shields.io/badge/Website-cloudexify.site-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Cloudexify website" /></a>
 <a href="https://linkedin.com/in/muhammad-majid-khan-mb588"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:hello@cloudexify.site"><img src="https://img.shields.io/badge/Email-Say%20Hello-0891B2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Send an email" /></a>
+<a href="mailto:majid@cloudexify.site"><img src="https://img.shields.io/badge/Email-Say%20Hello-0891B2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Send an email" /></a>
 
 <br/><br/>
 
